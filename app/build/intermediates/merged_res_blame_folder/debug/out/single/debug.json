@@ -1,0 +1,362 @@
+[
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_shadow_for_love_white.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-mdpi\\shadow_for_love_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_recycler_category.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\layout\\item_recycler_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_primary_light.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable\\ic_search_primary_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bck2.jpg.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-v24\\bck2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registered.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\layout\\activity_registered.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_more.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-v24\\ic_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkmark.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable\\checkmark.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bck6.jpg.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-v24\\bck6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_lunch.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-xhdpi\\lunch.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_done_24.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable\\ic_baseline_done_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_breakfast.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\layout\\activity_breakfast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_repick.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\layout\\activity_repick.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_detail.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\menu\\menu_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sample_image_category.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable\\sample_image_category.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_shadow_for_love_white.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-xxxhdpi\\shadow_for_love_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lunch.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\layout\\activity_lunch.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bck1.jpg.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-v24\\bck1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_logout.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable\\custom_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_teriyaki2.jpg.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-hdpi\\teriyaki2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bck5.jpg.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-v24\\bck5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dinner.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-xhdpi\\dinner.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_grocery.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\layout\\activity_grocery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_starter.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\layout\\activity_starter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_dialog.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\layout\\item_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_list_alt_24.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable\\ic_baseline_list_alt_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_category.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favorite.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable\\ic_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_timer.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-xhdpi\\timer.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bck8.jpg.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-v24\\bck8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_shadow_for_love_white.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-xxhdpi\\shadow_for_love_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_recycler_category_shimmer.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\layout\\item_recycler_category_shimmer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recipe.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\layout\\activity_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.jpg.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-v24\\logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_button.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable\\custom_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bck4.jpg.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-v24\\bck4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_link.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable\\ic_link.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_veggie.jpg.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-xxhdpi\\veggie.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_recycler_meal.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\layout\\item_recycler_meal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dinner.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\layout\\activity_dinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_snacks.jpg.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-v24\\snacks.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_vegan.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-xhdpi\\vegan.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\menu_pop_up_menu.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\menu\\pop_up_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bck7.jpg.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-v24\\bck7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_listview.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\layout\\activity_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sample_image_meal.jpg.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable\\sample_image_meal.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shadow_bottom_to_top.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable\\shadow_bottom_to_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_circle.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable\\ic_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_vegetarian.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\layout\\activity_vegetarian.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shadow_for_love_white.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-hdpi\\shadow_for_love_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ingredient.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\layout\\activity_ingredient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bckg.jpg.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-xhdpi\\bckg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_breakfast.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-xhdpi\\breakfast.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_view_pager_header.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\layout\\item_view_pager_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_view_pager_header_shimmer.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\layout\\item_view_pager_header_shimmer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_breakfast.jpg.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-v24\\breakfast.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_category.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pasta.jpg.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-xxhdpi\\pasta.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_timer.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\layout\\activity_timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_omelet.jpg.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-xxhdpi\\omelet.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_omelet2.jpg.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-xxhdpi\\omelet2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_av_timer_24.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable\\ic_baseline_av_timer_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_dinner.jpg.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-v24\\dinner.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favorite_border.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable\\ic_favorite_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_lunch.jpg.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-v24\\lunch.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_teriyaki.jpg.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-hdpi\\teriyaki.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_shadow_for_love_white.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-xhdpi\\shadow_for_love_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bck3.jpg.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\drawable-v24\\bck3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\PersonalChef\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]

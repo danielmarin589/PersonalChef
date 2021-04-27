@@ -1,0 +1,105 @@
+com/example/personalchef/view/home/HomeView.java
+ com.example.personalchef.view.home.HomeView
+com/example/personalchef/CustomAdapter.java
+ com.example.personalchef.CustomAdapter
+com/example/personalchef/view/detail/DetailView.java
+ com.example.personalchef.view.detail.DetailView
+com/example/personalchef/categories/DinnerActivity.java
+ com.example.personalchef.categories.DinnerActivity
+ com.example.personalchef.categories.DinnerActivity$1
+com/example/personalchef/adapter/RecyclerViewMealByCategory.java
+ com.example.personalchef.adapter.RecyclerViewMealByCategory
+ com.example.personalchef.adapter.RecyclerViewMealByCategory$ClickListener
+ com.example.personalchef.adapter.RecyclerViewMealByCategory$RecyclerViewHolder
+com/example/personalchef/RegisterActivity.java
+ com.example.personalchef.RegisterActivity
+ com.example.personalchef.RegisterActivity$1
+ com.example.personalchef.RegisterActivity$1$1
+ com.example.personalchef.RegisterActivity$2
+com/example/personalchef/RepickActivity.java
+ com.example.personalchef.RepickActivity
+ com.example.personalchef.RepickActivity$1
+ com.example.personalchef.RepickActivity$2
+ com.example.personalchef.RepickActivity$3
+ com.example.personalchef.RepickActivity$4
+com/example/personalchef/api/FoodApi.java
+ com.example.personalchef.api.FoodApi
+com/example/personalchef/categories/LunchActivity.java
+ com.example.personalchef.categories.LunchActivity
+ com.example.personalchef.categories.LunchActivity$1
+com/example/personalchef/Utils.java
+ com.example.personalchef.Utils
+com/example/personalchef/model/Meals.java
+ com.example.personalchef.model.Meals
+ com.example.personalchef.model.Meals$Meal
+com/example/personalchef/adapter/RecyclerViewHomeAdapter.java
+ com.example.personalchef.adapter.RecyclerViewHomeAdapter
+ com.example.personalchef.adapter.RecyclerViewHomeAdapter$ClickListener
+ com.example.personalchef.adapter.RecyclerViewHomeAdapter$RecyclerViewHolder
+com/example/personalchef/StarterActivity.java
+ com.example.personalchef.StarterActivity
+ com.example.personalchef.StarterActivity$1
+ com.example.personalchef.StarterActivity$2
+ com.example.personalchef.StarterActivity$3
+ com.example.personalchef.StarterActivity$4
+ com.example.personalchef.StarterActivity$5
+com/example/personalchef/view/category/CategoryPresenter.java
+ com.example.personalchef.view.category.CategoryPresenter
+ com.example.personalchef.view.category.CategoryPresenter$1
+com/example/personalchef/categories/VegetarianActivity.java
+ com.example.personalchef.categories.VegetarianActivity
+ com.example.personalchef.categories.VegetarianActivity$1
+com/example/personalchef/LoginActivity.java
+ com.example.personalchef.LoginActivity
+ com.example.personalchef.LoginActivity$1
+ com.example.personalchef.LoginActivity$2
+ com.example.personalchef.LoginActivity$2$1
+ com.example.personalchef.LoginActivity$3
+com/example/personalchef/view/category/CategoryView.java
+ com.example.personalchef.view.category.CategoryView
+com/example/personalchef/view/home/HomeActivity.java
+ com.example.personalchef.view.home.HomeActivity
+com/example/personalchef/BuildConfig.java
+ com.example.personalchef.BuildConfig
+com/example/personalchef/GroceryActivity.java
+ com.example.personalchef.GroceryActivity
+ com.example.personalchef.GroceryActivity$1
+ com.example.personalchef.GroceryActivity$1$1
+ com.example.personalchef.GroceryActivity$1$1$1
+ com.example.personalchef.GroceryActivity$1$1$2
+ com.example.personalchef.GroceryActivity$2
+ com.example.personalchef.GroceryActivity$3
+com/example/personalchef/view/category/CategoryFragment.java
+ com.example.personalchef.view.category.CategoryFragment
+com/example/personalchef/model/Categories.java
+ com.example.personalchef.model.Categories
+ com.example.personalchef.model.Categories$Category
+com/example/personalchef/RegisteredActivity.java
+ com.example.personalchef.RegisteredActivity
+ com.example.personalchef.RegisteredActivity$1
+com/example/personalchef/api/FoodClient.java
+ com.example.personalchef.api.FoodClient
+com/example/personalchef/RecipeActivity.java
+ com.example.personalchef.RecipeActivity
+ com.example.personalchef.RecipeActivity$1
+com/example/personalchef/TimerActivity.java
+ com.example.personalchef.TimerActivity
+com/example/personalchef/adapter/ViewPagerCategoryAdapter.java
+ com.example.personalchef.adapter.ViewPagerCategoryAdapter
+com/example/personalchef/view/detail/DetailActivity.java
+ com.example.personalchef.view.detail.DetailActivity
+com/example/personalchef/view/home/HomePresenter.java
+ com.example.personalchef.view.home.HomePresenter
+ com.example.personalchef.view.home.HomePresenter$1
+ com.example.personalchef.view.home.HomePresenter$2
+com/example/personalchef/view/detail/DetailPresenter.java
+ com.example.personalchef.view.detail.DetailPresenter
+ com.example.personalchef.view.detail.DetailPresenter$1
+com/example/personalchef/view/category/CategoryActivity.java
+ com.example.personalchef.view.category.CategoryActivity
+com/example/personalchef/adapter/ViewPagerHeaderAdapter.java
+ com.example.personalchef.adapter.ViewPagerHeaderAdapter
+ com.example.personalchef.adapter.ViewPagerHeaderAdapter$ClickListener
+com/example/personalchef/categories/BreakfastActivity.java
+ com.example.personalchef.categories.BreakfastActivity
+ com.example.personalchef.categories.BreakfastActivity$1
