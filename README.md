@@ -1,0 +1,2 @@
+# PersonalChef
+I developed this project in Android Studio using Java. The app was meant to help the user decide what to cook by displaying a large range of different foods along with a recipe and a list of ingredients. The recipes which were displayed were taken from a dedicated API. There was also a separate section in which the user would get daily recommandations based on the time of day and some other handy tools such as a cooking timer and an updateable grocery list.
