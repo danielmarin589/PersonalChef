@@ -47,6 +47,6 @@ public class TimerActivity extends AppCompatActivity {
         timer.setBase(SystemClock.elapsedRealtime());
         pauseOffset = 0;
 
-        Toast.makeText(this, "Timer was rested!", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Timer reset!", Toast.LENGTH_SHORT).show();
     }
 }
